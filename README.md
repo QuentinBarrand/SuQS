@@ -1,6 +1,7 @@
 SuQS
 ====
 
+<<<<<<< HEAD
 A basic QuickSort implementation that alphabetically orders lines of the standard input.
 
 
@@ -28,3 +29,6 @@ Twitter : @qSu7
 IRC : Su7 on Freenode
 
 Website : http://su7.info/
+=======
+An academic implementation of the quicksort algorithm in C++.
+>>>>>>> 646c66e254761d669f8d85add3cc586908243289

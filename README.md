@@ -1,34 +1,14 @@
-SuQS
-====
-
-<<<<<<< HEAD
+# SuQS
 A basic QuickSort implementation that alphabetically orders lines of the standard input.
 
+## Compilation
+Compile simply using GCC : `g++ -o projet projet.cpp`
 
-
-Compile simply using G++ :
-
-$ g++ -o projet projet.cpp
-
-Usage : 
-
+## Usage
 We assume YourTextFile is a simple, UNIX-formatted text file.
-In the program directory, type (without the quotes...) "cat YourTextFile | ./projet" in a terminal to get the YourTextFile file alphabetically ordered.
+In the program directory, type `cat YourTextFile | ./projet` in a terminal to get the YourTextFile file alphabetically ordered.
 
-License :
+## License
+This program is distributed under the terms of the [Creative Commons 3.0 BY license](http://creativecommons.org/licenses/by/3.0/)
 
-This program is distributed under the terms of the Creative Commons 3.0 BY license.
-The text of license can be found at this address : http://creativecommons.org/licenses/by/3.0/
-
-Contact the author :
-
-E-mail : quentin@su7.info
-
-Twitter : @qSu7
-
-IRC : Su7 on Freenode
-
-Website : http://su7.info/
-=======
-An academic implementation of the quicksort algorithm in C++.
->>>>>>> 646c66e254761d669f8d85add3cc586908243289
+Contact : [e-mail](quentin@quentinbarrand.com) | [Twitter](https://twitter.com/QuentinBarrand) | [Web](http://quentinbarrand.com)
